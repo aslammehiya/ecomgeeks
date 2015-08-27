@@ -64,9 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
-    <None Include=".bin\git.cmd" />
-    <None Include=".bin\node.cmd" />
-    <None Include=".bin\npm.cmd" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
