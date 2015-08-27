@@ -1,2 +1,6 @@
-language: C#
+language: csharp
 solution: ShopEasy.sln
+
+
+script:
+  - xbuild ShopEasy.sln
